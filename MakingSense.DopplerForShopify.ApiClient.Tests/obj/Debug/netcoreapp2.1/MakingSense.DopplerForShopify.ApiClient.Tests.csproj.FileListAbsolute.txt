@@ -1,0 +1,17 @@
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.deps.json
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.runtimeconfig.json
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.runtimeconfig.dev.json
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.dll
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.pdb
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\obj\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.csprojAssemblyReference.cache
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\obj\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.csproj.CoreCompileInputs.cache
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\obj\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.AssemblyInfoInputs.cache
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\obj\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.AssemblyInfo.cs
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\obj\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.dll
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\obj\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.pdb
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.dll
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\bin\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.pdb
+D:\doppler\net-client\doppler-for-shopify-net-api-client\MakingSense.DopplerForShopify.ApiClient.Tests\obj\Debug\netcoreapp2.1\MakingSense.DopplerForShopify.ApiClient.Tests.csproj.CopyComplete
